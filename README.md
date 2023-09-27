@@ -1,7 +1,5 @@
 # CodSoft Data Science Internship Tasks
 
-This repository contains the completed tasks for the CodSoft Data Science Internship. Each task focuses on a unique aspect of data science and machine learning, showcasing various skills and techniques in the field.
-
 ## Tasks Overview
 
 1. **Task 1: Titanic Survival Prediction**
